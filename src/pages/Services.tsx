@@ -149,7 +149,7 @@ const Services = () => {
               </div>
               <h3 className="text-xl font-bold mb-3">Expertise Reconnue</h3>
               <p className="text-gray-600">
-                Plus de 7 ans d'expérience dans l'accompagnement d'étudiants vers les universités russes
+                Plus de 2 ans d'expérience dans l'accompagnement d'étudiants vers les universités russes
               </p>
             </div>
             
@@ -193,12 +193,12 @@ const Services = () => {
             <TestimonialCard
               quote="J'avais déjà mon admission mais le visa me semblait compliqué. Leur service d'assistance visa m'a permis d'obtenir mon visa rapidement."
               name="Fatima B."
-              role="Étudiante en Informatique, Saint-Pétersbourg"
+              role="Étudiante en Informatique, Moscou"
             />
             <TestimonialCard
               quote="La traduction notariale de mes documents et la reconnaissance de mon diplôme ont été traitées avec professionnalisme. Service irréprochable !"
               name="Omar S."
-              role="Étudiant en Master, Kazan"
+              role="Étudiant en Master, Moscou"
             />
           </div>
         </div>

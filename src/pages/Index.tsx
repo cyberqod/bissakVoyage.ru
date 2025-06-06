@@ -236,19 +236,19 @@ const Index = () => {
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-12">
             <TestimonialCard
-              quote="Grâce à Russie Études, mon admission et mon visa ont été obtenus sans aucune difficulté. Leur équipe m'a accompagné à chaque étape et je suis maintenant en 2ème année de médecine à Moscou."
+              quote="Grâce à BissakVoyage, mon admission et mon visa ont été obtenus sans aucune difficulté. Leur équipe m'a accompagné à chaque étape et je suis maintenant en 2ème année de médecine à Moscou."
               name="Abdoulaye K."
               role="Étudiant en Médecine, Moscou"
             />
             <TestimonialCard
               quote="J'avais peur du processus complexe pour étudier à l'étranger, mais l'agence a tout géré parfaitement. Même mon logement était prêt à mon arrivée!"
               name="Amina T."
-              role="Étudiante en Génie Civil, Saint-Pétersbourg"
+              role="Étudiante en Génie Civil, Moscou"
             />
             <TestimonialCard
               quote="Le suivi personnalisé et la transparence dans les paiements m'ont rassuré. Je recommande cette agence à tous ceux qui veulent étudier en Russie sans stress."
               name="Emmanuel D."
-              role="Étudiant en Relations Internationales, Kazan"
+              role="Étudiant en Relations Internationales, Moscou"
             />
           </div>
           
