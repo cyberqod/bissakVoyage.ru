@@ -21,7 +21,7 @@ const ContactInfo = () => {
           <Mail className="mr-3 text-primary h-5 w-5 mt-1" />
           <div>
             <p className="font-medium">Email</p>
-            <p className="text-gray-600">exemple.contact@gmail.com</p>
+            <p className="text-gray-600">tinkpenabissakagildas@yandex.com</p>
           </div>
         </div>
         
@@ -55,7 +55,7 @@ const ContactInfo = () => {
           WhatsApp
         </a>
         <a
-          href="https://t.me/"
+          href="https://t.me/saintbissakvoyage"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center justify-center bg-blue-500 text-white rounded-md px-4 py-2 hover:bg-blue-600 transition-colors"

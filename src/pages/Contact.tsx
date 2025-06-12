@@ -5,8 +5,14 @@ import SectionHeading from "@/components/shared/SectionHeading";
 import ContactForm from "@/components/shared/ContactForm";
 import ContactInfo from "@/components/shared/ContactInfo";
 import FAQSection from "@/components/shared/FAQSection";
+import { Button } from "@/components/ui/button";
 
 const Contact = () => {
+  const handleInscriptionClick = () => {
+    // Remplacez cette URL par l'URL de votre formulaire Google
+    window.open('https://forms.google.com/', '_blank');
+  };
+
   const faqItems = [
     {
       question: "Quel est le délai de réponse à ma demande ?",
@@ -37,6 +43,13 @@ const Contact = () => {
           <p className="text-xl mb-8 max-w-2xl mx-auto">
             Notre équipe est à votre disposition pour répondre à toutes vos questions
           </p>
+
+          <Button 
+            onClick={handleInscriptionClick}
+            className="bg-white text-primary hover:bg-gray-100 font-semibold px-8 py-3 text-lg"
+          >
+            S'inscrire
+          </Button>
         </div>
       </section>
 
